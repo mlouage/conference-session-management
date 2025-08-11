@@ -1,0 +1,1055 @@
+[
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 2",
+    "title": "Secure your Modular Monolith by pretending it's a cat",
+    "speakers": [
+      "William Brander"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "11:40 - 12:40",
+    "room": "Room 1",
+    "title": "Modernizing your legacy application",
+    "speakers": [
+      "Nico Vermeir"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 5",
+    "title": "Hybrid Caching in .NET",
+    "speakers": [
+      "Jody Donetti"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "11:40 - 12:40",
+    "room": "Room 3",
+    "title": "Using GenAI on and inside your code, what could possibly go wrong?",
+    "speakers": [
+      "Niels Tanis"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "10:20 - 11:20",
+    "room": "Room 6",
+    "title": "Zero Trust Security with Azure cloud",
+    "speakers": [
+      "Anders Lybecker"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "10:20 - 11:20",
+    "room": "Room 2",
+    "title": "Navigating complexity in event-driven architectures: A domain-driven approach",
+    "speakers": [
+      "David Boyne"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 1",
+    "title": "The Chips and Pickle Story: What's Really Behind Infamous, Historic UI Failures?",
+    "speakers": [
+      "Dean Schuster"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 1",
+    "title": "Migrating from a monolith to a new service",
+    "speakers": [
+      "Connell Sharp"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 4",
+    "title": "Part 1/2: Geek-out with the WebAssembly Component Model: Embrace Edge- and Cloud-Native",
+    "speakers": [
+      "Mikkel Mørk Hegnhøj",
+      "Thorsten Hans"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 5",
+    "title": "Accessibility Testing with Chrome DevTools",
+    "speakers": [
+      "Josefine Schaefer"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 2",
+    "title": "How To Not Strangle Your Coworkers: Resolving Conflict with Collaboration",
+    "speakers": [
+      "Arthur Doler"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 6",
+    "title": "The New Realities of SaaS: Why Building is Harder Than Ever",
+    "speakers": [
+      "Luis Rubiera"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "10:20 - 11:20",
+    "room": "Room 1",
+    "title": "Java Sucks (So C# Didn't Have To)",
+    "speakers": [
+      "Adele Carpenter"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 2",
+    "title": "Building the NDC Copenhagen Mobile App Live! with Blazor Hybrid",
+    "speakers": [
+      "Gerald Versluis"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 2",
+    "title": "Prompt. Build. Repeat. – The Vibe Coding Mindset",
+    "speakers": [
+      "Daniel Sogl"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 6",
+    "title": "AI Coding Agents and how to code them",
+    "speakers": [
+      "Alex Shershebnev"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 3",
+    "title": "Demystifying the Enigma Machine - a Functional Journey",
+    "speakers": [
+      "Isaac Abraham"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 6",
+    "title": "Cross-platform development with .NET MAUI",
+    "speakers": [
+      "Anjuli Jhakry"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 3",
+    "title": "\"Would YOU Survive the Titanic?\", with ML and .NET",
+    "speakers": [
+      "Simon Painter"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 3",
+    "title": "Dehumanizing Agents: Why Explainability is Crucial in the LLM Era",
+    "speakers": [
+      "Lucía Conde-Moreno"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "11:40 - 12:40",
+    "room": "Room 2",
+    "title": "Your AI Agents Are Overprivileged: The Case for Fine-Grained Authorization",
+    "speakers": [
+      "Ashish Jha"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 6",
+    "title": "Building Trust in Open Source: A Practical Guide to Securing Your Software Supply Chain",
+    "speakers": [
+      "Yash Pimple"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 3",
+    "title": "Leading successful remote teams",
+    "speakers": [
+      "Callum Whyte"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 1",
+    "title": ".NET Aspire Beyond the Introduction",
+    "speakers": [
+      "Chris Klug"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 5",
+    "title": "Modern .NET Configuration Practices",
+    "speakers": [
+      "Chris Ayers"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "10:20 - 11:20",
+    "room": "Room 3",
+    "title": "A developers guide to really cool computer vision models",
+    "speakers": [
+      "Tess Ferrandez-Norlander"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "11:40 - 12:40",
+    "room": "Room 5",
+    "title": "Code that writes code - .NET Source generators",
+    "speakers": [
+      "Glenn F. Henriksen"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 1",
+    "title": "The Forgotten AI of Video Games",
+    "speakers": [
+      "Layla Porter"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "13:40 - 14:40",
+    "room": "Room 4",
+    "title": "Part 1/2: Introduction to capture the flag(CTF) with walkthrough and hands-on practice",
+    "speakers": [
+      "Mark Jervelund"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "10:20 - 11:20",
+    "room": "Room 5",
+    "title": "Drop the Bass with Embedding and Vectors in Azure AI Search",
+    "speakers": [
+      "Alan Smith"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "16:20 - 17:20",
+    "room": "Room 5",
+    "title": "Cursed C#",
+    "speakers": [
+      "Nick Chapsas"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "11:40 - 12:40",
+    "room": "Room 6",
+    "title": "Lightning Talks 1",
+    "speakers": [
+      "Lotte Pitcher",
+      "Scott Sauber",
+      "Jakob Endrestad Kielland",
+      "Josef Goldstein"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "15:00 - 16:00",
+    "room": "Room 4",
+    "title": "Part 2/2: Introduction to capture the flag(CTF) with walkthrough and hands-on practice",
+    "speakers": [
+      "Mark Jervelund"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "17:40 - 18:40",
+    "room": "Room 4",
+    "title": "Part 2/2: Geek-out with the WebAssembly Component Model: Embrace Edge- and Cloud-Native",
+    "speakers": [
+      "Mikkel Mørk Hegnhøj",
+      "Thorsten Hans"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-10",
+    "time": "09:00 - 10:00",
+    "room": "Room 1",
+    "title": "Keynote: AI is having its moment ... again",
+    "speakers": [
+      "Jodie Burchell"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "18:40 - 22:00",
+    "room": "Expo",
+    "title": "NDC Party",
+    "speakers": [
+      "Lars Klint"
+    ],
+    "type_duration": "Talk (200 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 6",
+    "title": "The Undersea Cable Network",
+    "speakers": [
+      "Richard Campbell"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 5",
+    "title": "Are you sure your access tokens are really secure?",
+    "speakers": [
+      "Wesley Cabus"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 3",
+    "title": "Building Intelligent .NET MAUI Apps with ML.NET",
+    "speakers": [
+      "Pieter Nijs"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 2",
+    "title": "So You Want to Maintain a Reliable Event Driven System",
+    "speakers": [
+      "James Eastham"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "16:20 - 17:20",
+    "room": "Room 2",
+    "title": "Design for Developers",
+    "speakers": [
+      "Lex Lofthouse"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 1",
+    "title": "Demystifying authentication in ASP.NET Core",
+    "speakers": [
+      "Tore Nestenius"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "09:00 - 10:00",
+    "room": "Room 3",
+    "title": "The Shopping Dead: An Accessible Live Web For The Unalive",
+    "speakers": [
+      "Daniel Yuschick"
+    ],
+    "type_duration": "2 Days"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 5",
+    "title": "Between the Layers– Interpreting Large Language Models",
+    "speakers": [
+      "Michelle Frost"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 1",
+    "title": "HTMX & ASP.NET Razor Pages – Web development without the JavaScript pains",
+    "speakers": [
+      "Kevin DeRudder"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 3",
+    "title": "WebAssembly & .NET: The Future of Cross-Platform Apps",
+    "speakers": [
+      "Dominik Titl"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 5",
+    "title": "Async messaging deep dive with Dapr, take your pub/sub skills to the next level 📨🚀",
+    "speakers": [
+      "Marc Duiker"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "16:20 - 17:20",
+    "room": "Room 5",
+    "title": "The Art of Focus: Managing Productivity with an ADHD Brain (And Why It Matters for Everyone)",
+    "speakers": [
+      "Alyssa Nicoll"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 1",
+    "title": "The Immutable Laws of Software and Life: Code Accordingly",
+    "speakers": [
+      "Cory House"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 7",
+    "title": "Dream Machines and Walled Gardens",
+    "speakers": [
+      "Anders Norås"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "09:00 - 10:00",
+    "room": "Room 2",
+    "title": "Change is inevitable: versioning event-driven systems",
+    "speakers": [
+      "Laila Bougria"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 4",
+    "title": "Part 1/2: Querying and modeling for graph databases",
+    "speakers": [
+      "Stefano Ottolenghi"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 6",
+    "title": "Implementing Domain Driven Design as a Pragmatic .NET Developer",
+    "speakers": [
+      "Halil İbrahim Kalkan"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "09:00 - 10:00",
+    "room": "Room 6",
+    "title": "Managing Terraform modules at scale",
+    "speakers": [
+      "Toni Petrina"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "16:20 - 17:20",
+    "room": "Room 1",
+    "title": "Modern Architecture 101 for New Engineers & Forgetful Experts",
+    "speakers": [
+      "Jerry Nixon"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 3",
+    "title": "AI vs. Karen: Real-Time Customer Sentiment Detection at Scale",
+    "speakers": [
+      "Josef Goldstein"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "16:20 - 17:20",
+    "room": "Room 6",
+    "title": "Easily Add GenAI to .NET Apps using Microsoft.Extensions.AI",
+    "speakers": [
+      "Brandon Minnick"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 6",
+    "title": "Optimize Your Internal OS and Minimize Compatibility Issues at Work",
+    "speakers": [
+      "Alice Meredith"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 5",
+    "title": "Building AI Agents and Multi-Agent Systems with Azure AI",
+    "speakers": [
+      "Henri Schulte"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "09:00 - 10:00",
+    "room": "Room 5",
+    "title": "Typescript. Runtime. And in Between.",
+    "speakers": [
+      "Ariel Shulman"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 2",
+    "title": "The Unbearable Weight of Architecture",
+    "speakers": [
+      "David Whitney"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 2",
+    "title": "Beyond the Prompt: Evaluating, Testing, and Securing LLM Applications",
+    "speakers": [
+      "Mete Atamel"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "09:00 - 10:00",
+    "room": "Room 1",
+    "title": "Let’s catch up with C#! Exciting new features in C# 9, 10, 11, 12 and 13!",
+    "speakers": [
+      "Filip Ekberg"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "16:20 - 17:20",
+    "room": "Room 3",
+    "title": "Adventures at HyperScale!",
+    "speakers": [
+      "Stefán Jökull Sigurðarson"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 3",
+    "title": "MCP with .NET: securely exposing your data to LLMs",
+    "speakers": [
+      "Callum Whyte"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 1",
+    "title": "Algorithms Demystified",
+    "speakers": [
+      "Dylan Beattie"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 5",
+    "title": "Supercharged Search with Semantic Search and Vector Embeddings",
+    "speakers": [
+      "Giorgi Dalakishvili"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 3",
+    "title": "neo4j for the relational .NET developer",
+    "speakers": [
+      "Chris Klug"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "17:40 - 18:40",
+    "room": "Room 2",
+    "title": "This time, they will finally realize I'm a fraud.",
+    "speakers": [
+      "Eugene Romero"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 1",
+    "title": "Cryptography: The Weird Bits",
+    "speakers": [
+      "Eli Holderness",
+      "Rendle ."
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "13:40 - 14:40",
+    "room": "Room 2",
+    "title": "What we learned rebuilding the largest Nordic electronic retail website in Next.js?",
+    "speakers": [
+      "Tomas Jansson"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 6",
+    "title": "Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core",
+    "speakers": [
+      "Maarten Balliauw"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "10:20 - 11:20",
+    "room": "Room 4",
+    "title": "Part 1/2: Accessibility: A Little Bit Better Is Better Than Nothing",
+    "speakers": [
+      "Lemon 🍋"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 4",
+    "title": "Part 2/2: Accessibility: A Little Bit Better Is Better Than Nothing",
+    "speakers": [
+      "Lemon 🍋"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "15:00 - 16:00",
+    "room": "Room 4",
+    "title": "Part 2/2: Querying and modeling for graph databases",
+    "speakers": [
+      "Stefano Ottolenghi"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-11",
+    "time": "11:40 - 12:40",
+    "room": "Room 6",
+    "title": "Lightning Talks 2",
+    "speakers": [
+      "Lucía Conde-Moreno",
+      "Anders Norås",
+      "Małgorzata Janeczek",
+      "Silas Eichsteller"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "13:40 - 14:40",
+    "room": "Room 6",
+    "title": "Exploring the World of Remix: A Guide to Building Resilient and Performant Web Apps",
+    "speakers": [
+      "Aurora Scharff"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "15:00 - 16:00",
+    "room": "Room 2",
+    "title": "Flying a drone with gestures, bananas & Web APIs",
+    "speakers": [
+      "Nhlanhla Lucky Nkosi"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "09:00 - 10:00",
+    "room": "Room 5",
+    "title": "It’s Not Always About the Index: The Hidden Secrets of Query Performance",
+    "speakers": [
+      "Avishag Sahar"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "13:40 - 14:40",
+    "room": "Room 1",
+    "title": "How we built an AI-powered code reviewer in 80 hours",
+    "speakers": [
+      "Yan Cui"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "13:40 - 14:40",
+    "room": "Room 5",
+    "title": "Building your own AI Agent using Semantic Kernel",
+    "speakers": [
+      "Johnny Hooyberghs"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 3",
+    "title": "Blob Wars: The Battle for Efficient File Handling with .Net and React",
+    "speakers": [
+      "Małgorzata Janeczek"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "09:00 - 10:00",
+    "room": "Room 1",
+    "title": "What the Soviet Space Program Taught Me About Digital Product Development",
+    "speakers": [
+      "Dean Schuster"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 3",
+    "title": "The Developer Rhapsody",
+    "speakers": [
+      "Tobias Modig"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 4",
+    "title": "Part 1/2: Create Your AI Product Coach: A Hands-on Workshop for Writing Impactful User Stories",
+    "speakers": [
+      "Kinga Magyar"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "15:00 - 16:00",
+    "room": "Room 3",
+    "title": "Avoiding common pitfalls with async/await",
+    "speakers": [
+      "Stephen Cleary"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 5",
+    "title": "One Source to Rule Them All: Kotlin DSLs as a Single Source of Truth for Multiple Tasks",
+    "speakers": [
+      "Ivan Ponomarev"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "13:40 - 14:40",
+    "room": "Room 3",
+    "title": "Edge-native applications - what happened to cloud-native?",
+    "speakers": [
+      "Mikkel Mørk Hegnhøj",
+      "Thorsten Hans"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "09:00 - 10:00",
+    "room": "Room 3",
+    "title": "From Days to Hours: How EventStorming Transformed Our Domain Modeling Process",
+    "speakers": [
+      "Vadzim Prudnikau"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "15:00 - 16:00",
+    "room": "Room 6",
+    "title": "Toxic Trust: The Psychology of Automation Bias in Generative AI",
+    "speakers": [
+      "Matthijs van der Veer"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "15:00 - 16:00",
+    "room": "Room 1",
+    "title": "Facilitate You! - Use your facilitating skills to lead yourself",
+    "speakers": [
+      "Martin Mazur"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 5",
+    "title": "FinOps for Engineers: Why Your Architecture Has a Price Tag",
+    "speakers": [
+      "Yihui Xu"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 6",
+    "title": "Mastering real-time anomaly detection with open source tools",
+    "speakers": [
+      "Olena Kutsenko"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "09:00 - 10:00",
+    "room": "Room 6",
+    "title": "Oops!… We F*ed It Up Again: The Art of Staying Calm When Systems Crash",
+    "speakers": [
+      "Alon Kiriati"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "13:40 - 14:40",
+    "room": "Room 2",
+    "title": "OpenTelemetry in a Brownfield World",
+    "speakers": [
+      "Jimmy Bogard"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 1",
+    "title": "The Evolution of Security Attacks and Threats",
+    "speakers": [
+      "Niall Merrigan"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 2",
+    "title": "If only I had known ...",
+    "speakers": [
+      "Hannes Lowette"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "09:00 - 10:00",
+    "room": "Room 2",
+    "title": "Future Proof with ASP.NET Core API Versioning",
+    "speakers": [
+      "Jay Harris"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "15:00 - 16:00",
+    "room": "Room 5",
+    "title": "TBA - Lars Klint",
+    "speakers": [
+      "Lars Klint"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "10:20 - 11:20",
+    "room": "Room 2",
+    "title": "Modern Observability: Making OpenTelemetry work for you",
+    "speakers": [
+      "Martin Thwaites"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 1",
+    "title": "Designers vs Developers: Who is in control here?",
+    "speakers": [
+      "Lemon 🍋"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 4",
+    "title": "Part 2/2: Create Your AI Product Coach: A Hands-on Workshop for Writing Impactful User Stories",
+    "speakers": [
+      "Kinga Magyar"
+    ],
+    "type_duration": "Workshop (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "11:40 - 12:40",
+    "room": "Room 6",
+    "title": "Lightning Talks 3",
+    "speakers": [
+      "Avishag Sahar",
+      "Jakub Gaj",
+      "Malin Jakobsen",
+      "Denny Biasiolli"
+    ],
+    "type_duration": "Talk (60 min)"
+  },
+  {
+    "day": "2025-09-12",
+    "time": "16:20 - 17:20",
+    "room": "Room 1",
+    "title": "Locknote: How ChatGPT Happened: A Brief History of AI",
+    "speakers": [
+      "Rendle ."
+    ],
+    "type_duration": "Talk (60 min)"
+  }
+]
