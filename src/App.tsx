@@ -15,7 +15,7 @@ function App() {
     setSearchQuery,
     toggleSession,
     isSessionSelected,
-    getConflictingSessions,
+    getSelectedSessionInTimeSlot,
     selectedCount
   } = useSessionManager();
 
@@ -38,7 +38,7 @@ function App() {
           groupedSessions={groupedSessions}
           isSessionSelected={isSessionSelected}
           toggleSession={toggleSession}
-          getConflictingSessions={getConflictingSessions}
+          getSelectedSessionInTimeSlot={getSelectedSessionInTimeSlot}
         />
       </main>
     </div>

@@ -76,6 +76,17 @@ export const useSessionManager = () => {
       if (newSet.has(sessionId)) {
         newSet.delete(sessionId);
       } else {
+        // Find the session being added
+        const sessionToAdd = allSessions.find(s => s.id === sessionId);
+        if (sessionToAdd) {
+          // Remove any other selected session from the same time slot
+          const conflictingSessions = allSessions.filter(s => 
+            s.day === sessionToAdd.day && 
+            s.time === sessionToAdd.time && 
+            newSet.has(s.id)
+          );
+          conflictingSessions.forEach(s => newSet.delete(s.id));
+        }
         newSet.add(sessionId);
       }
       return newSet;
@@ -84,8 +95,8 @@ export const useSessionManager = () => {
 
   const isSessionSelected = (sessionId: string) => selectedSessions.has(sessionId);
 
-  const getConflictingSessions = (session: SessionWithId) => {
-    return allSessions.filter(s => 
+  const getSelectedSessionInTimeSlot = (session: SessionWithId) => {
+    return allSessions.find(s => 
       s.id !== session.id && 
       s.day === session.day && 
       s.time === session.time && 
@@ -105,7 +116,7 @@ export const useSessionManager = () => {
     setSearchQuery,
     toggleSession,
     isSessionSelected,
-    getConflictingSessions,
+    getSelectedSessionInTimeSlot,
     selectedCount: selectedSessions.size
   };
 };

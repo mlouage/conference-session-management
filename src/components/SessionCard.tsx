@@ -6,16 +6,16 @@ interface SessionCardProps {
   session: SessionWithId;
   isSelected: boolean;
   onToggle: (sessionId: string) => void;
-  conflictingSessions: SessionWithId[];
+  selectedSessionInTimeSlot: SessionWithId | undefined;
 }
 
 export const SessionCard: React.FC<SessionCardProps> = ({
   session,
   isSelected,
   onToggle,
-  conflictingSessions
+  selectedSessionInTimeSlot
 }) => {
-  const hasConflict = conflictingSessions.length > 0;
+  const hasReplaceableSession = selectedSessionInTimeSlot && !isSelected;
 
   const getSessionTypeColor = (type: string) => {
     if (type.includes('Workshop')) return 'bg-purple-100 text-purple-800';
@@ -29,13 +29,7 @@ export const SessionCard: React.FC<SessionCardProps> = ({
     <div className={`
       relative bg-white rounded-lg shadow-md border-2 transition-all duration-200 hover:shadow-lg
       ${isSelected ? 'border-blue-500 bg-blue-50' : 'border-gray-200 hover:border-gray-300'}
-      ${hasConflict ? 'ring-2 ring-red-300' : ''}
     `}>
-      {hasConflict && (
-        <div className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full p-1">
-          <AlertTriangle size={16} />
-        </div>
-      )}
       
       <div className="p-6">
         <div className="flex items-start justify-between mb-3">
@@ -45,14 +39,16 @@ export const SessionCard: React.FC<SessionCardProps> = ({
           <button
             onClick={() => onToggle(session.id)}
             className={`
-              px-4 py-2 rounded-lg font-medium transition-colors duration-200
+              px-4 py-2 rounded-lg font-medium transition-colors duration-200 min-w-[140px]
               ${isSelected 
                 ? 'bg-blue-500 text-white hover:bg-blue-600' 
-                : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                : hasReplaceableSession
+                  ? 'bg-orange-500 text-white hover:bg-orange-600'
+                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
               }
             `}
           >
-            {isSelected ? 'Remove' : 'Add to Schedule'}
+            {isSelected ? 'Remove' : hasReplaceableSession ? 'Replace' : 'Add to Schedule'}
           </button>
         </div>
 
@@ -75,14 +71,14 @@ export const SessionCard: React.FC<SessionCardProps> = ({
           </div>
         </div>
 
-        {hasConflict && (
-          <div className="bg-red-50 border border-red-200 rounded-lg p-3">
-            <div className="flex items-center text-red-700 mb-1">
+        {hasReplaceableSession && (
+          <div className="bg-orange-50 border border-orange-200 rounded-lg p-3">
+            <div className="flex items-center text-orange-700 mb-1">
               <AlertTriangle size={14} className="mr-1" />
-              <span className="text-xs font-medium">Schedule Conflict</span>
+              <span className="text-xs font-medium">Will Replace</span>
             </div>
-            <p className="text-xs text-red-600">
-              Conflicts with: {conflictingSessions.map(s => s.title).join(', ')}
+            <p className="text-xs text-orange-600">
+              Will replace: {selectedSessionInTimeSlot.title}
             </p>
           </div>
         )}

@@ -6,14 +6,14 @@ interface SessionGridProps {
   groupedSessions: Record<string, Record<string, SessionWithId[]>>;
   isSessionSelected: (sessionId: string) => boolean;
   toggleSession: (sessionId: string) => void;
-  getConflictingSessions: (session: SessionWithId) => SessionWithId[];
+  getSelectedSessionInTimeSlot: (session: SessionWithId) => SessionWithId | undefined;
 }
 
 export const SessionGrid: React.FC<SessionGridProps> = ({
   groupedSessions,
   isSessionSelected,
   toggleSession,
-  getConflictingSessions
+  getSelectedSessionInTimeSlot
 }) => {
   const formatDate = (dateString: string) => {
     const date = new Date(dateString);
@@ -68,7 +68,7 @@ export const SessionGrid: React.FC<SessionGridProps> = ({
                       session={session}
                       isSelected={isSessionSelected(session.id)}
                       onToggle={toggleSession}
-                      conflictingSessions={getConflictingSessions(session)}
+                      selectedSessionInTimeSlot={getSelectedSessionInTimeSlot(session)}
                     />
                   ))}
                 </div>
